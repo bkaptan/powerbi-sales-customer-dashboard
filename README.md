@@ -8,7 +8,7 @@ Projenin nihai çıktısı; satış trendleri, müşteri kazanımı ve kategori 
 ---
 
 # 🖼 Dashboard Preview
-(assets/PowerBISalesDashboard-ezgif.com-video-to-gif-converter.gif)
+(assets/dashboard-overview-demo.gif)
 
 ---
 
