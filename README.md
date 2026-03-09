@@ -9,7 +9,7 @@ Projenin nihai çıktısı; satış trendleri, müşteri kazanımı ve kategori 
 
 # 🎥 Dashboard Demo
 
-[![Watch the video] https://youtu.be/zh1ig-XRZKE
+[[Watch the video] https://youtu.be/zh1ig-XRZKE
 
 ---
 
