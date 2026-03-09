@@ -128,20 +128,12 @@ These insights support better **strategic and operational decision-making**.
 
 # 🖼 Dashboard Preview
 
-Below are example screenshots from the dashboard.
-
-*(Add dashboard screenshots here)*
-
-Example:
-
-![Dashboard Overview] 
+[Dashboard Overview] 
 <img width="1341" height="940" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/c3149ce5-e99b-4309-b571-016299a0469d" />
 
 
-![Sales Analysis]
+[Sales Analysis]
 <img width="1340" height="941" alt="Sales Analysis" src="https://github.com/user-attachments/assets/ffb848e0-f44d-4de6-aa0a-0aa85ba7103a" />
-
-
 
 
 ---
