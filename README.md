@@ -1,24 +1,146 @@
-# Power BI Sales & Customer Analytics Dashboard
+# 📊 Power BI Sales & Customer Analytics Dashboard
 
-This project was developed as part of a Power BI case study prepared for a job interview process.
+This project was developed as part of a **Power BI case study prepared for a job interview process**.  
+The goal of this project was to analyze sales and customer data and build an **interactive business intelligence dashboard** that helps stakeholders monitor performance and uncover actionable insights.
 
-The goal of this project is to analyze sales and customer data and build an interactive dashboard that helps understand business performance.
+The final output is a **Power BI dashboard** designed to provide a clear overview of sales trends, customer acquisition, and category-level performance.
 
-## Dashboard Features
+---
 
-- Sales performance overview
-- Monthly sales trends
-- Customer acquisition analysis
-- Category-level revenue breakdown
-- Interactive filtering capabilities
+# 🚀 Project Overview
 
-## Tools Used
+Businesses generate large volumes of transactional data every day. However, raw data alone does not provide actionable insights.
 
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
+This project transforms raw sales data into a **structured analytical model and interactive dashboard** that answers key business questions such as:
 
-## Dashboard Preview
-<img width="1341" height="940" alt="33" src="https://github.com/user-attachments/assets/a5b8037f-375f-45a1-9d49-9baa6d53fee0" />
-<img width="1340" height="941" alt="4" src="https://github.com/user-attachments/assets/b9823dee-1e56-4610-a3b1-1d502df21ca6" />
+- How are sales evolving over time?
+- How many **new customers** are acquired each month?
+- Which product categories generate the most revenue?
+- What trends can be identified in customer purchasing behavior?
+
+The dashboard enables business stakeholders to **quickly monitor performance and make data-driven decisions.**
+
+---
+
+# 📂 Dataset Description
+
+The dataset used in this project contains multiple tables representing different business entities.
+
+### Orders Table
+- Order ID
+- Order Date
+- Customer ID
+- Product ID
+- Order Amount
+
+### Customers Table
+- Customer ID
+- Customer-related information
+
+### Products Table
+- Product ID
+- Product category
+
+### Date Table
+A dedicated **date dimension table** was created to support time-based analysis.
+
+---
+
+# 🧩 Data Modeling
+
+A **star schema data model** was implemented to optimize analytical performance.
+
+### Fact Table
+- Orders
+
+### Dimension Tables
+- Customers
+- Products
+- Date
+
+Relationships were defined between the fact and dimension tables to support efficient filtering and aggregation across analytical dimensions.
+
+Additional **DAX measures** were created to calculate key business metrics such as:
+
+- Total Sales
+- Order Count
+- Average Order Value
+- Monthly New Customers
+
+---
+
+# 📈 Dashboard Features
+
+The dashboard was designed to provide both **high-level KPIs and detailed analytical views**.
+
+### KPI Overview
+Quick performance summary including:
+
+- Total Sales
+- Total Orders
+- Average Order Value
+- Total Customers
+
+### Sales Trend Analysis
+Time-series visualization showing:
+
+- Monthly sales performance
+- Growth patterns
+- Seasonal trends
+
+### Customer Acquisition Analysis
+Analysis of **new customers acquired each month** to track business growth.
+
+### Category Performance Analysis
+Revenue distribution across product categories to identify **top-performing categories**.
+
+### Interactive Filters
+Users can dynamically filter the dashboard by:
+
+- Date
+- Product category
+- Customer segments
+
+---
+
+# 🔍 Key Insights
+
+The dashboard enables the identification of several important business insights, including:
+
+- Monthly fluctuations in sales performance
+- Product categories contributing the highest revenue
+- Periods with increased customer acquisition rates
+- Overall growth trends in sales and customer base
+
+These insights support better **strategic and operational decision-making**.
+
+---
+
+# 🛠 Tools & Technologies
+
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **Data Modeling**
+- **Data Visualization**
+
+---
+
+# 🖼 Dashboard Preview
+
+Below are example screenshots from the dashboard.
+
+*(Add dashboard screenshots here)*
+
+Example:
+
+![Dashboard Overview](images/dashboard_overview.png)
+
+![Sales Analysis](images/sales_analysis.png)
+
+
+---
+
+# 📁 Repository Structure
+
+
