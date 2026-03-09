@@ -78,10 +78,23 @@ Relationships were defined between the fact and dimension tables to support effi
 
 Additional **DAX measures** were created to calculate key business metrics such as:
 
-- Total Sales
-- Order Count
+- Total Net Sales
+- Total Orders
+- Total Sales Quantity
+- Average Discount Rate
 - Average Order Value
-- Monthly New Customers
+- Top Product Rank
+- Bottom 10 Product
+- Top 10 Product
+- Customer Rank
+- Sales Yesterday
+- Sales Last Week
+- Sales Last Month
+- Sales Day Before Yesterday
+- Daily Change %
+- Discounted Sales %
+- MoM Change %
+- 
 
 ---
 
