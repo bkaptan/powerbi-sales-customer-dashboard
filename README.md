@@ -7,6 +7,17 @@ The final output is a **Power BI dashboard** designed to provide a clear overvie
 
 ---
 
+# 🖼 Dashboard Preview
+
+Dashboard Overview:
+<img width="1341" height="940" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/c3149ce5-e99b-4309-b571-016299a0469d" />
+
+
+Sales Analysis:
+<img width="1340" height="941" alt="Sales Analysis" src="https://github.com/user-attachments/assets/ffb848e0-f44d-4de6-aa0a-0aa85ba7103a" />
+
+---
+
 # 🚀 Project Overview
 
 Businesses generate large volumes of transactional data every day. However, raw data alone does not provide actionable insights.
@@ -153,17 +164,6 @@ These insights support better **strategic and operational decision-making**.
 - **DAX**
 - **Data Modeling**
 - **Data Visualization**
-
----
-
-# 🖼 Dashboard Preview
-
-[Dashboard Overview] 
-<img width="1341" height="940" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/c3149ce5-e99b-4309-b571-016299a0469d" />
-
-
-[Sales Analysis]
-<img width="1340" height="941" alt="Sales Analysis" src="https://github.com/user-attachments/assets/ffb848e0-f44d-4de6-aa0a-0aa85ba7103a" />
 
 
 ---
