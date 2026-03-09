@@ -8,12 +8,7 @@ Projenin nihai çıktısı; satış trendleri, müşteri kazanımı ve kategori 
 ---
 
 # 🖼 Dashboard Preview
-
-Dashboard Overview:
-<img width="1341" height="940" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/c3149ce5-e99b-4309-b571-016299a0469d" />
-
-Sales Analysis:
-<img width="1340" height="941" alt="Sales Analysis" src="https://github.com/user-attachments/assets/ffb848e0-f44d-4de6-aa0a-0aa85ba7103a" />
+(assets/PowerBISalesDashboard-ezgif.com-video-to-gif-converter.gif)
 
 ---
 
@@ -104,6 +99,13 @@ Ayrıca aşağıdaki temel iş metriklerini hesaplamak için çeşitli **DAX mea
 - Daily Change %
 - Discounted Sales %
 - MoM Change %
+
+---
+Dashboard Overview:
+<img width="1341" height="940" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/c3149ce5-e99b-4309-b571-016299a0469d" />
+
+Sales Analysis:
+<img width="1340" height="941" alt="Sales Analysis" src="https://github.com/user-attachments/assets/ffb848e0-f44d-4de6-aa0a-0aa85ba7103a" />
 
 ---
 
