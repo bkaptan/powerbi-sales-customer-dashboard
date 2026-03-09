@@ -169,5 +169,19 @@ These insights support better **strategic and operational decision-making**.
 ---
 
 # 📁 Repository Structure
-
+powerbi-sales-customer-dashboard
+│
+├── data
+│   └── Customers.csv
+|   └── Products.csv
+|  └── Sales.csv
+│
+├── dashboard
+│   └── Sales_Analysis_Dashboard.pbix
+│
+├── images
+│   ├── Dashboard_Overview.png
+│   ├── Sales_Analysis.png
+│
+├── README.md
 
