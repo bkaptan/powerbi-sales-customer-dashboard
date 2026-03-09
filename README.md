@@ -105,10 +105,11 @@ The dashboard was designed to provide both **high-level KPIs and detailed analyt
 ### KPI Overview
 Quick performance summary including:
 
-- Total Sales
-- Total Orders
-- Average Order Value
-- Total Customers
+- Toplam satış performansı
+- Aylık satış trendi
+- Yeni müşteri kazanımı analizi
+- Kategori bazlı satış dağılımı
+- Müşteri davranışı analizi
 
 ### Sales Trend Analysis
 Time-series visualization showing:
@@ -128,7 +129,7 @@ Users can dynamically filter the dashboard by:
 
 - Date
 - Product category
-- Customer segments
+- Customer city segments
 
 ---
 
