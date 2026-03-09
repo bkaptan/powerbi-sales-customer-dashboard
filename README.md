@@ -190,6 +190,11 @@ powerbi-sales-customer-dashboard
 -------------------------------------------------------------------------------------------
 
 
+
+
+
+-- ENGLISH:
+
 # 📊 Power BI Sales & Customer Analytics Dashboard
 
 This project was developed as part of a **Power BI case study prepared for a job interview process**.  
