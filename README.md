@@ -26,20 +26,36 @@ The dashboard enables business stakeholders to **quickly monitor performance and
 
 The dataset used in this project contains multiple tables representing different business entities.
 
-### Orders Table
-- Order ID
+### Sales Table
+- Sales ID
 - Order Date
 - Customer ID
 - Product ID
-- Order Amount
+- Quantity
+- Unit Price
+- Discount Rate
+- Net Sales
+- Order Channel
 
 ### Customers Table
 - Customer ID
-- Customer-related information
+- Customer Name
+- Customer Type
+- Sector
+- City
+- Region
+- Signup Date
+- IsActive
 
 ### Products Table
 - Product ID
-- Product category
+- Product Name
+- Category
+- Sub Category
+- Brand
+- Unit Cost
+- Unit Price
+- IsActive
 
 ### Date Table
 A dedicated **date dimension table** was created to support time-based analysis.
@@ -51,7 +67,7 @@ A dedicated **date dimension table** was created to support time-based analysis.
 A **star schema data model** was implemented to optimize analytical performance.
 
 ### Fact Table
-- Orders
+- Sales
 
 ### Dimension Tables
 - Customers
