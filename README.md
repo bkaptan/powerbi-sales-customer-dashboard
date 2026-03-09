@@ -8,7 +8,7 @@ Projenin nihai çıktısı; satış trendleri, müşteri kazanımı ve kategori 
 ---
 
 # 🖼 Dashboard Preview
-assets/dashboard-overview-demo
+powerbi-sales-customer-dashboard/assets/dashboard-overview-demo
 
 ---
 
