@@ -8,7 +8,7 @@ Projenin nihai çıktısı; satış trendleri, müşteri kazanımı ve kategori 
 ---
 
 # 🖼 Dashboard Preview
-(assets/dashboard-overview-demo.gif)
+(main/assets/dashboard-overview-demo.gif)
 
 ---
 
